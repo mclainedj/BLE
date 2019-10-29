@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>bleRemixed</name>
+=======
+	<name>BLE</name>
+>>>>>>> branch 'master' of https://github.com/mclainedj/BLE.git
 	<comment />
 	<projects>
 	</projects>
