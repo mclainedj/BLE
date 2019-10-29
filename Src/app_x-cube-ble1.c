@@ -116,7 +116,7 @@ void MX_BlueNRG_MS_Init(void)
   /* USER CODE END BlueNRG_MS_Init_PreTreatment */
 
   /* Initialize the peripherals and the BLE Stack */
-  const char *name = "BlueRay";
+  const char *name = "BlueMac";
   uint16_t service_handle, dev_name_char_handle, appearance_char_handle;
   
   uint8_t  hwVersion;
